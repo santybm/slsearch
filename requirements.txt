@@ -1,0 +1,10 @@
+Flask==0.10.1
+Flask-Mobility==0.1.1
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+newrelic==2.62.0.47
+pyenchant==1.6.6
+python-firebase==1.2
+requests==2.9.1
+Werkzeug==0.11.5
